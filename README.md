@@ -1,7 +1,7 @@
 Wirexroutes
 ====================
 
-Wirexroutes is node module, that basically, helps to organise the express routes definition and the associated middlewares.
+Wirexroutes is a node module, that basically, helps to organise the express routes definition and the associated middlewares.
 I used only with express 3.0.
 
 
