@@ -1,0 +1,21 @@
+{
+  "name": "wirexroutes",
+  "version": "0.0.5",
+  "description": "A helper to organise the your express routes chains middlewares",
+  "keywords": ["express", "routes", "organaiser", "middleware"],
+  "author": "Ivan Fraixede Cugat <ifcdev@gmail.com>",
+  "repository": "git://github.com/ifraixedes/wirexroutes.git",
+  "main": "index",
+  "homepage": "https://github.com/ifraixedes/wirexroutes",
+  "contributors": [],
+  "dependencies": {},
+  "devDependies": {
+    "express": "~3.1.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/ifraixedes/wirexroutes/raw/master/LICENSE"
+    }
+  ]
+}
