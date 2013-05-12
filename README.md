@@ -56,6 +56,7 @@ Note, that this example is too simple, so maybe it is so difficult to gauge if i
 
 * Main structure
 
+```
 App route path
 └─┬
   ├─┬ controllers
@@ -68,10 +69,12 @@ App route path
     ├── user.js
     ├── project.js
     └── index.js
+```
 
 * Controller structure
 Each controller (each directory under 'controllers') has the same structure defined here for 'user'
 
+```
 App route path
 └─┬
   └─┬ controllers
@@ -81,7 +84,7 @@ App route path
       │ ├── pre
       │ └── post
       └── index.js
-
+```
 
 ### Defining the controllers
 
