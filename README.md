@@ -246,6 +246,4 @@ and route/index.js for this example is ('settings' is a module that I use to hol
 ## LICENSE
 
 License
-(The MIT License)
-
-Copyright (c) 2013 Ivan Fraixedes Cugat <ifcdev@gmail.com>
+Just MIT, in details in LICENSE file
